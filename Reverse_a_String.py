@@ -20,6 +20,6 @@ print reversed_string
 
 
 #Verifying if a string is a palindrome, any extra spaces in the string are removed.
-if (user_string.replace(" ", "") == reversed_string.replace(" ", "")):
+if (user_string == reversed_string):
     print ""
     print "*"*10 + "It's a PALINDROME" + "*"*10
