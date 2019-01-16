@@ -1,4 +1,4 @@
-# Program to covert Roman Number to a Decimal Number
+# Program to convert Roman Number to a Decimal Number
 # Roman Numbers are represented by seven different letters: I,V,X,L,C,D,M, which represents 1,5,10,50,100,500 and 1000 respectively.
 
 #Map for roman literals.
